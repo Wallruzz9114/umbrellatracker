@@ -12,4 +12,6 @@ Then enter the url "http://localhost:3000/" to launch the application.
 You can add new employees entering their information and chhose their location by moving the cursor on the map.
 You can also filter by querying the map based on gender, age, favorite game and radius.
 
+You need MongoDB and node.js to run the application. 
+
 -----------------------------------------------------------------------------------------------------------------
